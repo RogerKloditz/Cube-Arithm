@@ -7,9 +7,9 @@ other cube-files.
 
 Usage:
 
-./Cube-Arithm.py <Cube-File1> plus 5 (Add 5 to all entries)
+./cube-arithm.py <Cube-File1> plus 5 (Add 5 to all entries)
 
-./Cube-Arithm.py <Cube-File1> times <Cube-File2>
+./cube-arithm.py <Cube-File1> times <Cube-File2>
 (Multiply all entries of the first file with the corresponding entry in the second file)
 
 Operations:
